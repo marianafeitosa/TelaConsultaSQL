@@ -25,7 +25,7 @@
                         <a class="nav-link" href="index.php" style="color: white;">Cadastrar</a>
                       </li>
                       <li class="nav-item">
-                        <a class="nav-link "  href='consulta.php'  style="color: white; opacity: 0.5;" >Consultar</a>
+                        <a class="nav-link "  href='consulta.php'  style="color: white;" >Consultar</a>
                       </li>
                 </ul>
               </li>
